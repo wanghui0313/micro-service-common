@@ -1,4 +1,4 @@
-module common
+module github.com/wanghui0313/micro-service-common
 
 go 1.19
 
