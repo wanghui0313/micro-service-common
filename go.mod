@@ -1,4 +1,4 @@
-module micro-service-common
+module common
 
 go 1.19
 
